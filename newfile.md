@@ -1,4 +1,4 @@
 # My New File
 
 
-this is my EXTREMELY cool new file :-)
+this is my very cool new files :)
